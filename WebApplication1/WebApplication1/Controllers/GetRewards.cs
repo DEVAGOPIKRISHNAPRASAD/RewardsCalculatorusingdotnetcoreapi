@@ -19,8 +19,8 @@ namespace WebApplication1.Controllers
         {
             _rewardsService = rewards;
         }
-        [HttpGet]
-        public ActionResult<Customer> GetRewardsforCustomer()
+        [HttpGet("{customerName}")]
+        public ActionResult<Customer> GetRewardsforCustomer(string customerName)
         {
             //Consider the below customer for an example
             var customer = new Customer
@@ -34,6 +34,9 @@ namespace WebApplication1.Controllers
                 new Transaction { Date = new DateTime(2022, 6, 13), Amount =35}
             }
             };
+            // will get customer information from the database in actual project using below function.
+            //getcustomerinformation(customerName)
+            //for this project, I have customer information as dummy data and passing this to the calculaterewards method as shown below
             //calling the service to get the calculated rewards.
             _rewardsService.CalculateRewards(customer);
             return Ok(customer);

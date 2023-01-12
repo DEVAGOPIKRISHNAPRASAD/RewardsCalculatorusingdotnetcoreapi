@@ -20,5 +20,8 @@ C:\Users\sperumandla\Desktop\local\WebApplication1\WebApplication1\obj\Debug\net
 C:\Users\sperumandla\Desktop\local\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
 C:\Users\sperumandla\Desktop\local\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\sperumandla\Desktop\local\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
-C:\Users\sperumandla\Desktop\local\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
-C:\Users\sperumandla\Desktop\local\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\sperumandla\Desktop\local\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Pack.cache
+C:\Users\sperumandla\Desktop\local\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sperumandla\Desktop\local\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\sperumandla\Desktop\local\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\sperumandla\Desktop\local\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebApplication1.props

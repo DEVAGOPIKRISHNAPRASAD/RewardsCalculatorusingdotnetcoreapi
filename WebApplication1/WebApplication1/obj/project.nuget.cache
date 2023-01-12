@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "f7WFEZTiN2H6xyAdWubJuAUyforA56t4GzPp9dtq80I9FGxnooA+mE6dngta02wosj2gXIyV6LQOi9oCSCFz9g==",
+  "dgSpecHash": "+eWS52Jk4FOaI6kS8U0YJzu3T6A98LjbQhaRNP8i7NaY1J0Ss9RVlS9ML6diEnS/6cI6gwPVAmrljr8t6k4YFA==",
   "success": true,
   "projectFilePath": "C:\\Users\\sperumandla\\Desktop\\local\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sperumandla\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\sperumandla\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512"
+    "C:\\Users\\sperumandla\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\sperumandla\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
   ],
   "logs": []
 }
