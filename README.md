@@ -7,5 +7,10 @@ I have created the dot net core api and configured the service layer into the Co
 I have create the httpget end point to get the rewards of the customer
 I have created the rewards interface and implemented this service with the logic to calculate the rewards.
 Then in controller I have added the service layer as a dependency injection and then called the calculaterewards method by passing the customer information.
+Then in the launch settings I have mapped the launch api url.
 To test this I have created the dummy data where I have covered all 3 scenarios like having transaction amount between 0-50, 50-100, morethan 100 scenarios and calculated rewards for each scenario and also calculated total rewards at the end.
 I have tested this end point using the postman and got response as expected.
+
+Please find the local endpoint below:
+https://localhost:44348/getrewards/getrewardsforcustomer/{customerName}
+
